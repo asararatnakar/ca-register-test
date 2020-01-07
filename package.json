@@ -1,0 +1,16 @@
+{
+    "name": "ca-register-test",
+    "version": "1.0.0",
+    "description": "A simple ca-register-test implemented using JavaScript",
+    "engines": {
+        "node": ">=8",
+        "npm": ">=5"
+    },
+    "engineStrict": true,
+    "author": "Ratnakar",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "fabric-ca-client": "1.4.4",
+        "fabric-network": "1.4.4"
+    }
+}
